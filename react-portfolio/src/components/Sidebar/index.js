@@ -41,7 +41,7 @@ const Sidebar = () => {
             target="_blank"
             rel="noreferrer"
           >
-            <FontAwesomeIcon icon={faLinkedin} color="#ffffff" />
+            <FontAwesomeIcon icon={faLinkedin} color="#4d4d4" />
           </a>
         </li>
         <li>
@@ -50,7 +50,7 @@ const Sidebar = () => {
             target="_blank"
             rel="noreferrer"
           >
-            <FontAwesomeIcon icon={faGithub} color="#ffffff" />
+            <FontAwesomeIcon icon={faGithub} color="#4d4d4" />
           </a>
         </li>
       </ul>
